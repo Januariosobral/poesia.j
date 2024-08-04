@@ -81,7 +81,7 @@ section.imagem{
     color: aliceblue;
     box-shadow: inset 6px 06px 13px 0px rgba(0, 0, 0, 0.310);
     background-size: cover;
-    background-attachment: fixed;
+
 
 
 }
@@ -94,14 +94,16 @@ text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.705);
 
 section#img01{
 background-image: url(imagens/img.01.jpeg);
-background-position:right center;
+background-position-x: 40%;
+    background-position-y: 25%;
 
 
 
 }
 section#img02{
 background-image: url(imagens/img.03.webp);
-background-position:right center;
+background-position-x: 40%;
+    background-position-y: 10%;
 
 }
 
