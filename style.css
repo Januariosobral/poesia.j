@@ -43,7 +43,7 @@ header > h1 {
    font-variant: small-caps;
    font-family: var(--fonte2);
    margin-block-end: 0.4em;
-   font-size: 8vw;
+   font-size: 9.2vw;
    
 }
 header> p {
@@ -65,7 +65,7 @@ section{
      line-height: 2em;
      padding-left: 30px;
      font-family: var(--fonte3);
-     font-size: 3.5vw;
+     font-size: 4.2vw;
 
 }
 section>p{
